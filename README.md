@@ -16,7 +16,7 @@ By clicking on the title of a book, the application shows the description in the
 The application also displays in the search history in the "Search History" box. 
 
 ## App Link
-[Click here to launch the App](https://www.raffaelebini.com/progetti/index.html)
+[Click here to launch the App](dist/index.html)
 
 ## Screenshots
 ![App Screenshot](/src/assets/img/AppLibri01.png)
