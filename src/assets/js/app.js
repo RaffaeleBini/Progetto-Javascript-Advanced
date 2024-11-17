@@ -120,7 +120,18 @@ async function showBookDetails(bookKey) {
 }
 
 // Carica la cronologia delle ricerche al caricamento della pagina
-document.addEventListener("DOMContentLoaded", loadSearchHistory);
+// document.addEventListener("DOMContentLoaded", loadSearchHistory);
 
 // Aggiungi un event listener al bottone di ricerca
-searchButton.addEventListener("click", searchBooks);
+// searchButton.addEventListener("click", searchBooks);
+
+// Esporta le funzioni che vuoi rendere disponibili all'esterno
+export {
+    showLoader,
+    hideLoader,
+    validateInput,
+    saveToHistory,
+    loadSearchHistory,
+    searchBooks,
+    showBookDetails
+};
