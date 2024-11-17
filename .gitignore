@@ -1,0 +1,25 @@
+# Dipendenze
+/node_modules
+
+# Cartella di build
+/dist
+
+# File di env
+*.env
+*.env.local
+
+# Ignora file di configurazione IDE specifici
+/.vscode
+/.idea
+
+# File di sistema MacOS
+.DS_Store
+
+# File di sistema Windows
+Thumbs.db
+Desktop.ini
+
+# File temporanei
+*.log
+*.tmp
+*.temp
