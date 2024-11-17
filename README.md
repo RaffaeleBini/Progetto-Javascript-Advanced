@@ -1,34 +1,31 @@
 ![Logo](https://www.raffaelebini.com/assets/img/LogoRBScuroPiccolo.png)
 
-![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/html-blue?logo=html5)
+![CSS](https://img.shields.io/badge/css-blue?logo=css3)
+![Node](https://img.shields.io/badge/node-red?logo=npm)
+![Webpack](https://img.shields.io/badge/webpack-red?logo=webpack)
 
 # Progetto-Javascript-Advanced
-Progetto finale del corso Javascript Advanced di Start2Impact
+Applicazione per la ricerca di libri nel catalogo di "Open Library", sviluppata come progetto finale del corso Javascript Advanced di Start2Impact. 
 
+## Come funziona
+L’applicazione funziona attraverso una casella di testo (Google style) che permette all’utente di effettuare una ricerca di libri indicando una specifica categoria (es. Fantasy).
+Dopo aver inserito la categoria, l’utente avvia la ricerca cliccando l'apposito bottone; al termine della ricerca, l’applicazione mostra in un riquadro l'elenco dei titoli individuati e dei relativi autori. 
+Facendo click sul titolo di un libro, l’applicazione ne mostra la descrizione in un apposito riquadro. 
+L'applicazione conta anche di una funzione di salvataggio delle ricerche recenti, per facilitare l'uso da parte dell'utente.
 
 ## Link
-[Click here to use the Counter](https://www.raffaelebini.com/progetti/index.html)
-
-
-## Usage
-The user, upon entering the page, will display 0 as the counter value and will have the two following buttons to change the counter value:
-
-- button [+] increases by 1 the value of the counter
-- button [-] decreases by 1 the value of the counter
-- button [Reset] resets to 0 the value of the counter
-
+[Clicca qui per usare l'applicazione](https://www.raffaelebini.com/progetti/index.html)
 
 ## Screenshots
-![App Screenshot](/img/CounterScreen.png)
+![App Screenshot](/img/AppLibri01.png)
 
-
-## License
+## Licenza
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Authors
+## Autore
 - [@RaffaeleBini](https://www.github.com/RaffaeleBini)
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_homepage-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://www.raffaelebini.com/)
