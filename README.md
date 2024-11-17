@@ -19,7 +19,7 @@ The application also displays in the search history in the "Search History" box.
 [Click here to launch the App](https://www.raffaelebini.com/progetti/index.html)
 
 ## Screenshots
-![App Screenshot](/img/AppLibri01.png)
+![App Screenshot](/src/assets/img/AppLibri01.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
