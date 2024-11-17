@@ -8,7 +8,7 @@ body {
     flex-wrap: nowrap;
     justify-content: space-between;
     background-color: grey;
-    background-image: url("../img/booksearch01.jpeg");
+    background-image: url("/src/assets/img/booksearch01.jpeg");
 }
 
 h1 {
