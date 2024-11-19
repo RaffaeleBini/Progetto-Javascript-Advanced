@@ -215,7 +215,6 @@
     "utils-merge": "^1.0.1",
     "uuid": "^8.3.2",
     "vary": "^1.1.2",
-    "watchpack": "^2.4.2",
     "wbuf": "^1.7.3",
     "webpack-dev-middleware": "^7.4.2",
     "webpack-merge": "^5.10.0",
@@ -243,6 +242,7 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.6.3",
     "style-loader": "^4.0.0",
+    "watchpack": "^2.4.2",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0"
