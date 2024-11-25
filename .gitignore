@@ -1,8 +1,8 @@
 # Dipendenze
-/node_modules
+node_modules/
 
 # Cartella di build
-/dist
+dist/
 
 # File di env
 *.env
